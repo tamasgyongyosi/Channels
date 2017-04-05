@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RssReader</string>
+    <string name="title_activity_rss_lists">Channels</string>
+    <string name="title_activity_rss"></string>
+    <string name="title_activity_add_rss">Add new channel</string>
+    <string name="channel_delete">Channel deleted</string>
+    <string name="error_general">Something went wrong</string>
+    <string name="error_required_field">Required field</string>
+    <string name="facebook_app_id">1018774348253062</string>
+    <string name="info">Info</string>
+    <string name="sort">Sort by alpha</string>
+    <string name="info_title">Rss Reader</string>
+    <string name="info_desc">Channels is an RSS reader application which you can subscribe to RSS feeds. Among the channels you can delete items by dragging left or right.</string>
+    <string name="info_developer">Tamás Gyöngyösi, tamas.gyongyosi86@gmail.com</string>
+</resources>
